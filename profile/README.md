@@ -8,3 +8,5 @@ projects we collaborated on, we helped each other get better at what we do and w
 
 Dev 47 is a good place to build your network with other developers, find people to collaborate on your projects easily and get more answers on varieties of
 topics. Contributing to group projects in Dev 47 can serve as good portfolio project and increase your chances of getting that dream job and aid personal development too.
+
+> Since November, 2021
